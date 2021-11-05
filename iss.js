@@ -57,6 +57,7 @@ const fetchISSFlyOverTimes = function(coords, callback) {
 
 
 module.exports = { fetchMyIP, fetchCoordsByIP, fetchISSFlyOverTimes };
+
 //module.exports2 = { fetchCoordsByIP };
 
 // to be fair I didn't straight up copy n paste...  I typed it out myself to at least try to understand it.
